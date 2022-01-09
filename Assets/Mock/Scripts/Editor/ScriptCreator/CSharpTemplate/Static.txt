@@ -1,0 +1,13 @@
+/// 
+///  @説明 #SUMMARY#
+/// 
+
+using UnityEngine;
+using System.Collections;
+
+namespace #NAMESPACE#
+{
+    public static class #SCRIPT_NAME#
+    {
+    }
+}
