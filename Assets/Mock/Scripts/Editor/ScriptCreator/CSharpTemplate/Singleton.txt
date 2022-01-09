@@ -1,0 +1,19 @@
+/// 
+///  @説明 #SUMMARY#
+/// 
+
+using UnityEngine;
+using System.Collections;
+
+namespace #NAMESPACE#
+{
+    public class #SCRIPT_NAME# : SingletonMonoBehaviour<#SCRIPT_NAME#>
+    {
+        /// <summary>
+        /// 初期化
+        /// </summary>
+        protected override void OnInitialize()
+        {
+        }
+    }
+}

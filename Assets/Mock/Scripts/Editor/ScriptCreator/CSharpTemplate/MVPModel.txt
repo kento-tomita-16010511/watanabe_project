@@ -1,0 +1,28 @@
+///
+///  @説明 #SUMMARY#
+///
+
+using UnityEngine;
+using System.Collections;
+using Mock.Core.Common;
+
+namespace #NAMESPACE#
+{
+    public class #SCRIPT_NAME# : ModelBase
+    {
+        /// <summary>
+        /// コンストラクタ
+        /// </summary>
+        public #SCRIPT_NAME#()
+        {
+        }
+
+        /// <summary>
+        /// 初期化
+        /// </summary>
+        public override void Initialize()
+        {
+            base.Initialize();
+        }
+    }
+}

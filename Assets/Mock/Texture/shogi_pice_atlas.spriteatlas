@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: shougi_pice_atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: -7808691643172276976, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+    - {fileID: -7820317121547718836, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+    - {fileID: 2620212443715884254, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+    - {fileID: 7812347497036891944, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+    - {fileID: 5920548183102473860, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+    - {fileID: 768186362671643636, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+    - {fileID: -8300224524724538353, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+    - {fileID: 5374346094585342790, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+    - {fileID: -1710231705333070905, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+    - {fileID: -2612472290285618606, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+    - {fileID: 8498003514833352232, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+    - {fileID: -655023720754471079, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+    - {fileID: 4330137557931476379, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+    - {fileID: 3608315135022978959, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+    - {fileID: -5819178898715589866, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -5819178898715589866, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+  - {fileID: 4330137557931476379, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+  - {fileID: -655023720754471079, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+  - {fileID: 8498003514833352232, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+  - {fileID: -2612472290285618606, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+  - {fileID: 3608315135022978959, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+  - {fileID: -7808691643172276976, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+  - {fileID: -7820317121547718836, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+  - {fileID: 2620212443715884254, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+  - {fileID: 7812347497036891944, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+  - {fileID: 5920548183102473860, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+  - {fileID: 768186362671643636, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+  - {fileID: -8300224524724538353, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+  - {fileID: 5374346094585342790, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+  - {fileID: -1710231705333070905, guid: 878cab5a9a83b7642990e8438a763f6b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - shogi_unfind
+  - shogi_13
+  - shogi_12
+  - shogi_11
+  - shogi_10
+  - shogi_14
+  - shogi_01
+  - shogi_02
+  - shogi_03
+  - shogi_04
+  - shogi_05
+  - shogi_06
+  - shogi_07
+  - shogi_08
+  - shogi_09
+  m_RenderDataMap: {}
+  m_Tag: shougi_pice_atlas
+  m_IsVariant: 0

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: chess_pice_atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 5507299671571488936, guid: d1a8578fd0cbc254a95e0052cb9826e7, type: 3}
+    - {fileID: 7940667385321039709, guid: d1a8578fd0cbc254a95e0052cb9826e7, type: 3}
+    - {fileID: -2972034983984576646, guid: d1a8578fd0cbc254a95e0052cb9826e7, type: 3}
+    - {fileID: -3777308589328012477, guid: d1a8578fd0cbc254a95e0052cb9826e7, type: 3}
+    - {fileID: -8958795437896387227, guid: d1a8578fd0cbc254a95e0052cb9826e7, type: 3}
+    - {fileID: 2651300485213070163, guid: d1a8578fd0cbc254a95e0052cb9826e7, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 2651300485213070163, guid: d1a8578fd0cbc254a95e0052cb9826e7, type: 3}
+  - {fileID: -8958795437896387227, guid: d1a8578fd0cbc254a95e0052cb9826e7, type: 3}
+  - {fileID: -3777308589328012477, guid: d1a8578fd0cbc254a95e0052cb9826e7, type: 3}
+  - {fileID: -2972034983984576646, guid: d1a8578fd0cbc254a95e0052cb9826e7, type: 3}
+  - {fileID: 7940667385321039709, guid: d1a8578fd0cbc254a95e0052cb9826e7, type: 3}
+  - {fileID: 5507299671571488936, guid: d1a8578fd0cbc254a95e0052cb9826e7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - chess_piece_f
+  - chess_piece_e
+  - chess_piece_d
+  - chess_piece_c
+  - chess_piece_b
+  - chess_piece_a
+  m_RenderDataMap: {}
+  m_Tag: chess_pice_atlas
+  m_IsVariant: 0
